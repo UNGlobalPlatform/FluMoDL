@@ -1,0 +1,7 @@
+Package: FluMoDL
+Version: 0.0.3
+Depends: dlnm, mvmeta
+Imports: stats, utils, splines, tsModel
+License: GPL (>= 2)
+MD5sum: 6945df010b1b63a8f8d7d53c1dd9213b
+NeedsCompilation: no
